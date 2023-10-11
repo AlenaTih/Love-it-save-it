@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #1F54BF;
+    margin-bottom: 4px;
+}
+
+button {
+    background: #1F54BF;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #1F54BF;
+    font-weight: bold;
+}
+
+#delete-btn {
+    background: white;
+    color: #1F54BF;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #1F54BF;
+}
+
+
+/* Icon attribution: <a href="https://www.flaticon.com/free-icons/save-post" title="save post icons">Save post icons created by See Icons - Flaticon</a> */
